@@ -29,3 +29,15 @@ Active task               :active,  des2, 2014-01-09, 3d
 Future task               :         des3, after des2, 5d
 Future task2               :         des4, after des3, 5d
 ```
+```mermaid
+    gitGraph
+       commit
+       commit
+       branch Book
+       commit
+       commit
+       commit
+       checkout main
+       commit
+       commit
+```
