@@ -12,7 +12,7 @@ int main(){
 ```
  
 ```mermaid
-graph LR;
+flowchart LR
     A[Zero]-->B[One];
 ```
 <!--
