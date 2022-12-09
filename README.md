@@ -1,4 +1,4 @@
-# CPP
+# CPP <https://mermaid-js.github.io/mermaid/#/>
 C++ programming learning
 ```CPP
 #include <iostream>
