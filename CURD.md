@@ -11,7 +11,8 @@
 | Paragraph   | Text        |
 
 
-| **CRUD Operation**|	HTTP Method |
+| **CRUD Operation** |	HTTP Method |
+| ------------------ | ------------ |
 | Create |	POST |
 | Read	| GET |
 | Update	| PATCH / PUT |
